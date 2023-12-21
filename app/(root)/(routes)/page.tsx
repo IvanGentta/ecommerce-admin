@@ -14,12 +14,7 @@ const SetUpPage = () => {
     }
   }, [isOpen, onOpen]);
 
-  return (
-    <main className="p-4">
-      <h1>Admin DashBoard</h1>
-      <div>Root page</div>
-    </main>
-  );
+  return null;
 };
 
 export default SetUpPage;
